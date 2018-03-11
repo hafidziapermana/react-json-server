@@ -20,7 +20,7 @@ $ json-server fakePhoneData.json
 
 ```shell
 # Go to repo folder
-$ cd phonefinder
+$ cd react-json-server
 
 # Install all dependencies
 $ npm install
